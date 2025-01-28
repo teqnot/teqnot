@@ -4,9 +4,9 @@ I'm a university student passionate about building efficient and meaningful solu
 
 ### 💻 Key Interests:
 
-- Android Development (explored through research on the Khadas Vim 3L)
+- Fullstack web development
 - Systems design (e.g., UNIX-like shell emulators, virtual machines)
-- Creative web development 
+- Android Development (explored through research on the Khadas Vim 3L)
 
 ### ⚙️ What I’m Working On:
 
