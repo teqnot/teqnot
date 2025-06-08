@@ -13,10 +13,6 @@ I'm a university student passionate about building efficient and meaningful solu
 - Hosting and refining my interactive CLI-style personal website.
 - Applying efficient problem-solving techniques to new challenges.
 
-```
-Find out more: https://teqnot.com
-```
-
 ## Technologies & Tools
 
 **Programming Languages:**
