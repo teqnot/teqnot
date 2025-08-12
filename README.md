@@ -4,13 +4,11 @@ I'm a university student passionate about building efficient and meaningful solu
 
 ### 💻 Key Interests:
 
-- Fullstack web/mobile development
-- Systems design (e.g., UNIX-like shell emulators, virtual machines)
-- Android Development
+- Backend Java work
 
 ### ⚙️ What I’m Working On:
 
-- Hosting and refining my interactive CLI-style personal website.
+- Working on building my portfolio
 - Applying efficient problem-solving techniques to new challenges.
 
 ## Technologies & Tools
