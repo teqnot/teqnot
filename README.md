@@ -15,18 +15,13 @@ I'm a university student passionate about building efficient and meaningful solu
 
 **Programming Languages:**
 
-![Python](https://img.shields.io/badge/Code-Python-black?logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Code-Java-black?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-black?logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-black?logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/Code-C%2B%2B-black?logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Code-Go-black?logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/Code-HTML5-black?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Code-CSS3-black?logo=css3&logoColor=white)
 
 **Frameworks:**
 
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring-black?logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/Framework-Django-black?logo=django&logoColor=white)
 
 **Tools and Services:**
 
